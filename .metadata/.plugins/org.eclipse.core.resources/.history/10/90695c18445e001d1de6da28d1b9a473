@@ -1,0 +1,11 @@
+package variavel;
+
+public class variavel {
+	public static void main (String [] args){
+		String nome = "lucas";
+		int idade= 19;
+		
+		System.out.println("nome");
+	}
+
+}
